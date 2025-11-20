@@ -9,3 +9,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# API keys and secrets
+*.env
+secrets.json
