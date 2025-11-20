@@ -11,5 +11,5 @@ wheels/
 .venv
 
 # API keys and secrets
-*.env
+.env
 secrets.json
