@@ -23,3 +23,7 @@ langserve
 sse_starlette
 pydantic
 PyMuPDF
+langgraph
+openai-agents
+asyncio
+sendgrid==6.12.3
