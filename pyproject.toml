@@ -23,6 +23,7 @@ dependencies = [
     "langchain-text-splitters>=1.0.0",
     "langgraph>=1.0.3",
     "langserve>=0.3.3",
+    "mcp[cli]>=1.22.0",
     "openai-agents>=0.6.1",
     "pydantic>=2.12.4",
     "pymupdf>=1.26.6",

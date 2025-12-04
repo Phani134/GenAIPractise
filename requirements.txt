@@ -27,3 +27,4 @@ langgraph
 openai-agents
 asyncio
 sendgrid==6.12.3
+mcp[cli]
